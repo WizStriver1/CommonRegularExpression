@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Search with Everything]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Search with Everything\Command]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\Search with Everything]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\Search with Everything\Command]

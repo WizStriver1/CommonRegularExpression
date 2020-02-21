@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Search with Everything]
+"Icon"="D:\\Program Files\\Everything-1.4.1.877.x64\\Everything.exe"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\shell\Search with Everything\Command]
+@="D:\\Program Files\\Everything-1.4.1.877.x64\\Everything.exe -path ."
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Search with Everything]
+"Icon"="D:\\Program Files\\Everything-1.4.1.877.x64\\Everything.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Search with Everything\Command]
+@="D:\\Program Files\\Everything-1.4.1.877.x64\\Everything.exe -path ."

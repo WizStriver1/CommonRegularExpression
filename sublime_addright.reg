@@ -1,0 +1,24 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\Sublime Text 3]
+"Icon"="D:\\Program Files\\Sublime Text3\\sublime_text.exe,0"
+@="Open with Sublime Text3"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\Sublime Text 3\command]
+@="D:\\Program Files\\Sublime Text3\\sublime_text.exe %1"
+
+[HKEY_CLASSES_ROOT\Folder\shell\Sublime Text 3]
+"Icon"="D:\\Program Files\\Sublime Text3\\sublime_text.exe"
+@="Open with Sublime Text3"
+
+[HKEY_CLASSES_ROOT\Folder\shell\Sublime Text 3\command]
+@="D:\\Program Files\\Sublime Text3\\sublime_text.exe %1"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sublime]
+"Icon"="D:\\Program Files\\Sublime Text3\\sublime_text.exe"
+"MUIVerb"="Open with Sublime Text3(&s)"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\sublime\command]
+@="D:\\Program Files\\Sublime Text3\\sublime_text.exe \"%V\""
+
