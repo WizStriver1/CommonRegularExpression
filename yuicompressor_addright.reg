@@ -5,7 +5,7 @@ Windows Registry Editor Version 5.00
 "Icon"="D:\\Program Files\\Java\\jre1.8.0_201\\bin\\java.exe"
 
 [HKEY_CLASSES_ROOT\Directory\shell\Open Yuicompressor\command]
-@="D:\\tool\\YuiCompressor\\openyuicompressor.bat %1"
+@="G:\\tool\\YuiCompressor\\openyuicompressor.bat %1"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Open Yuicompressor]
 "Icon"="D:\\Program Files\\Java\\jre1.8.0_201\\bin\\java.exe"
@@ -13,4 +13,4 @@ Windows Registry Editor Version 5.00
 "NoWorkingDirectory"=""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Open Yuicompressor\command]
-@="D:\\tool\\YuiCompressor\\openyuicompressor.bat \"%V\""
+@="G:\\tool\\YuiCompressor\\openyuicompressor.bat %V"
